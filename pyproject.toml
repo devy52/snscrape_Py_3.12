@@ -11,7 +11,7 @@ packages = ['snscrape', 'snscrape.modules']
 name = 'snscrape'
 description = 'A social networking service scraper'
 readme = 'README.md'
-authors = [{name = 'JustAnotherArchivist'}]
+authors = [{name = 'devy52'}]
 classifiers = [
 	'Development Status :: 4 - Beta',
 	'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)',
